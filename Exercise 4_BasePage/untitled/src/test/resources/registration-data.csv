@@ -1,0 +1,4 @@
+first,last,email,gender,mobile,subjects,hobbies,address,state,city
+John,Doe,john.doe@example.com,Male,9999999999,Maths|Physics,Sports|Reading,221B Baker Street,NCR,Delhi
+Jane,Smith,jane.smith@example.com,Female,8888888888,English,Music,742 Evergreen Terrace,Uttar Pradesh,Agra
+Alex,Nguyen,alex.nguyen@example.com,Other,7777777777,Chemistry,Sports,123 Le Loi,Haryana,Karnal
